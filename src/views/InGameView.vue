@@ -42,7 +42,7 @@ onBeforeRouteLeave((to, from, next) => {
 
 onMounted(() => {
     if (window.experience.playDemo == undefined) {
-        window.location.href = '/';
+        router.push('/');
         return;
     }
 

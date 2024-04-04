@@ -1,4 +1,5 @@
 import EventEmitter from './EventEmitter.js';
+import router from '../../router';
 
 export default class Sizes extends EventEmitter {
 
@@ -14,10 +15,6 @@ export default class Sizes extends EventEmitter {
             this.height = window.innerHeight;
             this.pixelRatio = Math.min(window.devicePixelRatio, 2);
             this.trigger('resize');
-
-            if (!('ontouchstart' in window) || this.width <= 1170) {
-                window.location.href = '/unsupported';
-            }
         });
     }
 }
