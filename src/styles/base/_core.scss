@@ -1,0 +1,57 @@
+* {
+  margin: 0;
+  padding: 0;
+  user-select: none;
+}
+
+html, body {
+  color: white;
+  position: fixed;
+  font-family: 'Orbitron';
+  text-transform: uppercase;
+}
+
+#gl {
+  filter: grayscale(100%) contrast(100%) brightness(100%);
+}
+
+#app {
+  font-size: 0.7rem;
+  position: relative;
+  height: 100vh;
+  width: 100vw;
+  overflow: hidden;
+}
+
+
+@font-face {
+  font-family: 'CyberPunk'; 
+  src: url('/fonts/Cyberpunk-Regular.ttf'); 
+}
+
+@font-face {
+  font-family: 'Orbitron'; 
+  src: url('/fonts/Orbitron-Regular.ttf');
+}
+
+canvas {
+  z-index: -1;
+  position: absolute;
+  height: 100vh;
+  width: 100vw;
+}
+
+#gl {
+  z-index: -1;
+  position: absolute;
+  height: 100vh;
+  width: 100vw;
+}
+
+h1,
+h2,
+h3,
+h4 {
+  font-weight: unset;
+  font-size: unset;
+}
