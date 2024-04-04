@@ -1,4 +1,4 @@
-# transcendance
+# 42transcendance
 
 Minimalistic Three.js demo of the latest core project from 42 School.
 
