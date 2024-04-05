@@ -1,8 +1,25 @@
-# 42transcendance
+## Context
+This repository contains a minimalistic demo of the latest core project from 42 School, showcasing a simple pong game implemented using Three.js. This project serves as a practical application of 3D graphics rendering and game mechanics in a web environment.
 
-Minimalistic Three.js demo of the latest core project from 42 School.
+## Disclaimer
+Please note that this project is a demo. As such, certain parts of the code may be unoptimized, unused, or not as clean as they could be. This project is meant to demonstrate basic functionalities and concepts rather than serve as a production-ready application.
+
+## Stack
+### Vue.js
+Utilized for the frontend framework, enabling a reactive and component-driven development approach.
+### Three.js
+Empowers the 3D rendering capabilities, making the core game mechanics visually engaging.
+### GSAP
+Used for creating high-performance, professional-grade animations, enhancing the visual effects and interactions within the game.
+### SASS
+Enhances CSS with more powerful features like variables, nested rules, and placeholders for better styling architecture.
+### Vite
+Serves as the build tool and development server, offering fast hot module replacement (HMR) and optimized build outputs.
 
 ## Project Setup
+To get this project up and running on your local machine, follow these steps:
+
+### Install dependencies
 
 ```sh
 npm install
@@ -14,7 +31,7 @@ npm install
 npm run dev
 ```
 
-### Compile and Minify for Production
+### Compile and Minify for Production (SPA)
 
 ```sh
 npm run build
