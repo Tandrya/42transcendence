@@ -1,6 +1,8 @@
 ## Context
 This repository contains a minimalistic demo of the latest core project from 42 School, showcasing a simple pong game implemented using Three.js. This project serves as a practical application of 3D graphics rendering and game mechanics in a web environment.
 
+[Live Demo](https://pong.mickaellaval.com/)
+
 ### Reference
 The game logic is based on [This example](https://embed.plnkr.co/zg1iEjXtv0krpPSgkWe3/) coded by [Ben Lesh](https://github.com/benlesh).
 
