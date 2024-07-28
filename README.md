@@ -1,5 +1,5 @@
 ## 42 Transcendence
-This repository contains a minimalistic demo of the latest core project from 42 School, showcasing a simple 3D pong game implemented using Three.js / Vue.js.
+This repository contains a minimalist demo of the latest core project from 42 School, showcasing a simple 3D pong game implemented using Three.js / Vue.js.
 
 [-> Start the demo](https://pong.mickaellaval.com/)
 
