@@ -1,13 +1,15 @@
-## Context
-This repository contains a minimalistic demo of the latest core project from 42 School, showcasing a simple pong game implemented using Three.js. This project serves as a practical application of 3D graphics rendering and game mechanics in a web environment.
+## 42 Transcendence
+This repository contains a minimalistic demo of the latest core project from 42 School, showcasing a simple 3D pong game implemented using Three.js / Vue.js.
 
-[Live Demo](https://pong.mickaellaval.com/)
+[-> Start the demo](https://pong.mickaellaval.com/)
+
+![alt text](https://book.mickaellaval.com/book-4.webp)
 
 ### Reference
 The game logic is based on [This example](https://embed.plnkr.co/zg1iEjXtv0krpPSgkWe3/) coded by [Ben Lesh](https://github.com/benlesh).
 
 ## Disclaimer
-Please note that this project is a demo. As such, certain parts of the code may be unoptimized, unused, or not as clean as they could be. This project is meant to demonstrate basic functionalities and concepts rather than serve as a production-ready application.
+Please note that this project is a demo. As such, certain parts of the code may be unoptimized, unused, or not as clean as they could be.
 
 ## Stack
 ### Vue.js
