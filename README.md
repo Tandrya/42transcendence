@@ -1,9 +1,9 @@
 ## 42 Transcendence
 This repository contains a minimalist demo of the latest core project from 42 School, showcasing a simple 3D pong game implemented using Three.js / Vue.js.
 
-[-> Start the demo](https://pong.mickaellaval.com/)
+[-> Start the demo](https://42transcendence-mu.vercel.app/)
 
-![alt text](https://book.mickaellaval.com/book-4.webp)
+![alt text](https://book-laval.vercel.app/book-4.webp)
 
 ### Reference
 The game logic is based on [This example](https://embed.plnkr.co/zg1iEjXtv0krpPSgkWe3/) coded by [Ben Lesh](https://github.com/benlesh).
